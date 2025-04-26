@@ -1,0 +1,9 @@
+/.venv
+/build
+/contatos.xlsx
+/dist
+/mgs.spec
+/mgs_automatizada_whatsapp.py
+/mgs_automatizada_whatsapp.spec
+/teste.py
+/venv
